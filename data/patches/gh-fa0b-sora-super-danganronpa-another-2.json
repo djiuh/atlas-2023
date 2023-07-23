@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "Sora (Super Danganronpa Another 2)",
+	"description": "The protagonist of the Korean Danganronpa Fan Game \"Super Danganronpa Another 2.\" by LINUJ. She lacks any memories, the only thing she remembers is the Kanji \"空\" and chose to adopt it as her name",
+	"links": {
+		"subreddit": [
+			"DanganronpaAnother"
+		]
+	},
+	"path": {
+		"152": [
+			[
+				222,
+				7
+			],
+			[
+				227,
+				34
+			],
+			[
+				236,
+				35
+			],
+			[
+				241,
+				26
+			],
+			[
+				238,
+				10
+			],
+			[
+				235,
+				8
+			],
+			[
+				222,
+				7
+			]
+		]
+	},
+	"center": {
+		"152": [
+			233,
+			25
+		]
+	}
+}
