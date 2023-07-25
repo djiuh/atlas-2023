@@ -1,0 +1,68 @@
+{
+	"id": -1,
+	"name": "Lyria ",
+	"description": "The deuteragonist of Japanese Gacha Game, Granblue Fantasy. Lyria, otherwise known as \"The Girl in Blue\" is a mysteriously powerful girl that can control Primal Beasts and revived the Main Character via. a life-link and is therefore eternally attached to them",
+	"links": {
+		"subreddit": [
+			"Granblue_en"
+		]
+	},
+	"path": {
+		"222": [
+			[
+				-727,
+				163
+			],
+			[
+				-732,
+				165
+			],
+			[
+				-733,
+				172
+			],
+			[
+				-732,
+				173
+			],
+			[
+				-732,
+				174
+			],
+			[
+				-731,
+				174
+			],
+			[
+				-730,
+				176
+			],
+			[
+				-725,
+				176
+			],
+			[
+				-725,
+				175
+			],
+			[
+				-724,
+				174
+			],
+			[
+				-724,
+				168
+			],
+			[
+				-724,
+				166
+			]
+		]
+	},
+	"center": {
+		"222": [
+			-728,
+			170
+		]
+	}
+}
