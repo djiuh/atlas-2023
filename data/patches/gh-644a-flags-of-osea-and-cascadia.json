@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Flags of Osea and Cascadia",
+	"description": "Flags of fictional nations Osea (above) and Cascadia (below), the former from the Ace Combat universe, and the latter is from Project Wingman's universe. Altough r/acecombat is private in protest of the recent API changes. This didn't seem to stop r/Project_Wingman from making the Osean flag anyways, with both games having overlapping fanbases",
+	"links": {
+		"subreddit": [
+			"Project_Wingman"
+		]
+	},
+	"path": {
+		"222": [
+			[
+				-1024,
+				195
+			],
+			[
+				-1012,
+				195
+			],
+			[
+				-1012,
+				212
+			],
+			[
+				-1024,
+				212
+			],
+			[
+				-1024,
+				202
+			]
+		]
+	},
+	"center": {
+		"222": [
+			-1018,
+			204
+		]
+	}
+}
